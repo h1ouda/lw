@@ -1,0 +1,18 @@
+input
+{
+	display: block; /* La balise devient de type block. */
+	width: 50%;
+	height:40px;
+	
+}
+select
+{
+	display: block; /* La balise devient de type block. */
+	width: 50%;
+	height:30px;
+}
+button
+{
+	display: block; /* La balise devient de type block. */
+	width: 10%;
+}
